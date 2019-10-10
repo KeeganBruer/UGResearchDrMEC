@@ -1,0 +1,10 @@
+Jaw - wide / thin
+Forehead - tilt forward / back
+Nose - sellion shallow / deep
+Mouth - corners transverse shift
+Mouth - happy / sad
+Face - heavy / light
+Mouth - underbite / overbite
+Mouth - forward axis twist
+Eyes - height disparity
+Skin Shade - Dark / Light

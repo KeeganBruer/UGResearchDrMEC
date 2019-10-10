@@ -1,0 +1,10 @@
+Face - heavy / light
+Beard - Flushed / Pale
+Nose - bridge transverse shift
+Chin - transverse shift
+Mouth-Chin distance - short / long
+Eyelids - Pale / Red
+Chin - chin axis twist
+Mouth - transverse shift
+Face - tall / short
+Nose Region - frontal axis twist

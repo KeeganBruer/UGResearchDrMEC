@@ -1,0 +1,123 @@
+Brow Ridge - high / low
+Brow Ridge Inner - down / up
+Brow Ridge Outer - up / down
+Cheekbones - low / high
+Cheekbones - shallow / pronounced
+Cheekbones - thin / wide
+Cheeks - concave / convex
+Cheeks - round / gaunt
+Chin - forward / backward
+Chin - pronounced / recessed
+Chin - retracted / jutting
+Chin - shallow / deep
+Chin - small / large
+Chin - tall / short
+Chin - wide / thin
+Eyes - down / up
+Eyes - small / large
+Eyes - tilt inward / outward
+Eyes - apart / together
+Face - brow-nose-chin ratio
+Face - forehead-sellion-nose ratio
+Face - heavy / light
+Face - round / gaunt
+Face - tall / short
+Face - up / down
+Face - wide / thin
+Forehead - small / large
+Forehead - tall / short
+Forehead - tilt forward / back
+Head - thin / wide
+Jaw - retracted / jutting
+Jaw - wide / thin
+Jaw-Neck - slope high / low
+Jawline - concave / convex
+Mouth - drawn / pursed
+Mouth - happy / sad
+Mouth - Lips deflated / inflated
+Mouth - Lips large / small
+Mouth - Lips puckered / retracted
+Mouth - Lips thin / thick
+Mouth - protruding / retracted
+Mouth - tilt up / down
+Mouth - underbite / overbite
+Mouth - up / down
+Mouth - wide / thin
+Mouth-Chin distance - short / long
+Nose - bridge shallow / deep
+Nose - bridge short / long
+Nose - down / up
+Nose - flat / pointed
+Nose - nostril tilt down / up
+Nose - nostrils small / large
+Nose - nostrils wide / thin
+Nose - region concave / convex
+Nose - sellion down / up
+Nose - sellion shallow / deep
+Nose - sellion shallow / deep
+Nose - sellion thin / wide
+Nose - short / long
+Nose - tilt down / up
+Temples - thin / wide
+Brow Ridge - forward axis twist
+Cheekbones - protrusion asymmetry
+Chin - chin axis twist
+Chin - forward axis twist
+Chin - transverse shift
+Eyes - height disparity
+Eyes - transverse shift
+Face - coronal bend
+Face - coronal shear
+Face - vertical axis twist
+Forehead - forward axis twist
+Mouth - corners transverse shift
+Mouth - forward axis twist
+Mouth - transverse shift
+Mouth - twist and shift
+Mouth-Nose - coronal shear
+Mouth-Nose - transverse shift
+Nose - bridge transverse shift
+Nose - frontal axis twist
+Nose - sellion transverse shift
+Nose - tip transverse shift
+Nose - transverse shift
+Nose - vertical axis twist
+Nose Region - frontal axis twist
+Nostrils - frontal axis twist
+Nostrils - transverse shift
+Beard - Flushed / Pale
+Beard - Light / Dark
+Beard - Cheeks Light / Dark
+Beard - Circle Light / Dark
+Beard - Goatee Light / Dark
+Beard - Moustache Light / Dark
+Cheek Blush - Light / Red
+Eye Sockets - Bruised / Bright
+Eye Sockets - Dark / Light
+Eyebrows - Dark / Light
+Eyebrows - Low / High
+Eyebrows - Thick / Thin
+Eyebrows - Very Thin / Thick
+Eyebrows - Lower Light / Dark
+Eyebrows - Outer Light / Dark
+Eyebrows - Upper Dark / Light
+Eyebrows - Underneath Lightness Fix Light / Dark
+Eyebrows - Underneath Inner Lightness Fix Light / Dark
+Eyelids - Light / Dark
+Eyelids - Pale / Red
+Eyeliner - Light / Dark
+Eyeshadow - Light / Dark
+Eye Whites - Dim / Bright
+Eyes - Dark Brown / Light Blue
+Eyes - Dark Brown / Light Brown
+Lips - Flushed / Pale
+Lipstick - Dark Red / Light Blue
+Lipstick - Dark Blue / Light Red
+Naso Labial Lines - Light / Dark
+Nares - Small / Large
+Nose - Pale / Red
+Skin - Flushed / Pale
+Skin Shade - Dark / Light
+Skin Tint - Orange / Blue
+Skin Tint - Purple / Yellow
+Skin Tint - Red / Green

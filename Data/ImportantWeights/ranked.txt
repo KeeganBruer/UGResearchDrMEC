@@ -1,0 +1,123 @@
+Forehead - small / large | 23 | 5 | 35 | 31 | 11 | 31 | 35
+Nose Region - frontal axis twist | 15 | 23 | 18 | 43 | 49 | 10 | 49
+Mouth - underbite / overbite | 34 | 37 | 42 | 7 | 52 | 35 | 52
+Eyeshadow - Light / Dark | 39 | 57 | 1 | 23 | 33 | 17 | 57
+Cheek Blush - Light / Red | 36 | 51 | 16 | 52 | 22 | 58 | 58
+Mouth - Lips puckered / retracted | 14 | 70 | 7 | 47 | 31 | 71 | 71
+Mouth - happy / sad | 24 | 14 | 14 | 5 | 24 | 75 | 75
+Face - heavy / light | 52 | 33 | 76 | 6 | 64 | 1 | 76
+Skin Tint - Orange / Blue | 27 | 26 | 51 | 62 | 78 | 80 | 80
+Eyebrows - Outer Light / Dark | 31 | 80 | 66 | 30 | 66 | 64 | 80
+Eyelids - Pale / Red | 81 | 60 | 55 | 20 | 6 | 6 | 81
+Nose - region concave / convex | 21 | 82 | 24 | 26 | 75 | 46 | 82
+Beard - Goatee Light / Dark | 82 | 38 | 4 | 48 | 61 | 55 | 82
+Mouth-Chin distance - short / long | 75 | 78 | 83 | 59 | 34 | 5 | 83
+Nose - sellion down / up | 72 | 69 | 84 | 35 | 65 | 44 | 84
+Mouth - transverse shift | 29 | 15 | 88 | 42 | 87 | 8 | 88
+Nose - sellion transverse shift | 3 | 89 | 5 | 19 | 84 | 32 | 89
+Chin - transverse shift | 83 | 21 | 44 | 89 | 48 | 4 | 89
+Chin - pronounced / recessed | 55 | 27 | 90 | 72 | 73 | 39 | 90
+Nose - frontal axis twist | 73 | 73 | 79 | 82 | 90 | 65 | 90
+Eyebrows - Very Thin / Thick | 90 | 59 | 75 | 27 | 4 | 74 | 90
+Eyes - down / up | 18 | 92 | 21 | 68 | 41 | 49 | 92
+Chin - small / large | 4 | 35 | 92 | 58 | 40 | 11 | 92
+Eyebrows - Lower Light / Dark | 68 | 28 | 52 | 64 | 46 | 92 | 92
+Eyes - small / large | 33 | 13 | 58 | 54 | 53 | 93 | 93
+Nostrils - transverse shift | 8 | 79 | 93 | 49 | 27 | 63 | 93
+Mouth - drawn / pursed | 89 | 25 | 33 | 93 | 71 | 89 | 93
+Chin - forward axis twist | 70 | 8 | 96 | 57 | 91 | 70 | 96
+Face - up / down | 66 | 16 | 80 | 24 | 97 | 43 | 97
+Eyebrows - Dark / Light | 41 | 4 | 47 | 51 | 100 | 98 | 100
+Jaw-Neck - slope high / low | 92 | 66 | 28 | 99 | 30 | 100 | 100
+Naso Labial Lines - Light / Dark | 13 | 20 | 36 | 32 | 9 | 101 | 101
+Face - wide / thin | 60 | 101 | 23 | 28 | 81 | 36 | 101
+Jaw - wide / thin | 101 | 83 | 41 | 1 | 70 | 73 | 101
+Nose - bridge transverse shift | 1 | 71 | 43 | 76 | 102 | 3 | 102
+Cheekbones - shallow / pronounced | 50 | 34 | 102 | 80 | 63 | 84 | 102
+Nose - bridge shallow / deep | 44 | 42 | 61 | 92 | 68 | 103 | 103
+Nose - transverse shift | 84 | 87 | 73 | 103 | 29 | 26 | 103
+Chin - chin axis twist | 103 | 49 | 34 | 17 | 58 | 7 | 103
+Cheeks - round / gaunt | 69 | 62 | 45 | 81 | 98 | 104 | 104
+Mouth - forward axis twist | 22 | 104 | 64 | 8 | 42 | 50 | 104
+Nose - bridge short / long | 76 | 103 | 63 | 16 | 104 | 68 | 104
+Eyebrows - Upper Dark / Light | 20 | 43 | 104 | 37 | 20 | 16 | 104
+Face - round / gaunt | 104 | 81 | 22 | 65 | 14 | 40 | 104
+Chin - shallow / deep | 49 | 105 | 54 | 41 | 25 | 30 | 105
+Eyeliner - Light / Dark | 58 | 19 | 81 | 15 | 105 | 34 | 105
+Mouth - corners transverse shift | 30 | 97 | 105 | 4 | 72 | 76 | 105
+Eyelids - Light / Dark | 94 | 75 | 20 | 106 | 60 | 19 | 106
+Beard - Light / Dark | 48 | 53 | 106 | 67 | 56 | 18 | 106
+Eyes - height disparity | 61 | 102 | 10 | 9 | 92 | 106 | 106
+Forehead - tilt forward / back | 85 | 2 | 107 | 2 | 67 | 22 | 107
+Face - coronal shear | 95 | 9 | 27 | 107 | 99 | 60 | 107
+Eyebrows - Underneath Lightness Fix Light / Dark | 63 | 40 | 68 | 11 | 85 | 107 | 107
+Skin Shade - Dark / Light | 107 | 94 | 103 | 10 | 89 | 86 | 107
+Mouth - tilt up / down | 43 | 22 | 11 | 86 | 108 | 12 | 108
+Skin Tint - Red / Green | 99 | 39 | 25 | 108 | 76 | 15 | 108
+Nose - short / long | 108 | 24 | 94 | 38 | 39 | 79 | 108
+Cheekbones - thin / wide | 91 | 109 | 31 | 97 | 7 | 67 | 109
+Jawline - concave / convex | 42 | 45 | 2 | 44 | 109 | 27 | 109
+Brow Ridge - high / low | 88 | 58 | 109 | 50 | 45 | 14 | 109
+Jaw - retracted / jutting | 35 | 67 | 108 | 109 | 5 | 91 | 109
+Cheekbones - protrusion asymmetry | 51 | 86 | 97 | 63 | 101 | 109 | 109
+Nose - down / up | 109 | 11 | 101 | 53 | 32 | 81 | 109
+Chin - tall / short | 86 | 29 | 110 | 87 | 44 | 20 | 110
+Eye Sockets - Bruised / Bright | 45 | 106 | 3 | 110 | 26 | 37 | 110
+Nose - vertical axis twist | 59 | 95 | 91 | 55 | 51 | 110 | 110
+Nose - sellion thin / wide | 110 | 36 | 40 | 83 | 79 | 88 | 110
+Eyebrows - Thick / Thin | 65 | 10 | 82 | 70 | 111 | 41 | 111
+Eyes - transverse shift | 28 | 63 | 6 | 12 | 35 | 111 | 111
+Nose - sellion shallow / deep | 111 | 17 | 71 | 3 | 23 | 33 | 111
+Nose - sellion shallow / deep | 111 | 17 | 71 | 3 | 23 | 33 | 111
+Face - forehead-sellion-nose ratio | 96 | 98 | 100 | 73 | 38 | 112 | 112
+Mouth - protruding / retracted | 12 | 108 | 112 | 90 | 47 | 52 | 112
+Eyes - apart / together | 87 | 112 | 30 | 101 | 88 | 59 | 112
+Lipstick - Dark Blue / Light Red | 112 | 61 | 13 | 104 | 83 | 66 | 112
+Eyes - Dark Brown / Light Brown | 78 | 96 | 38 | 84 | 112 | 29 | 112
+Skin - Flushed / Pale | 7 | 52 | 69 | 34 | 8 | 113 | 113
+Mouth - Lips deflated / inflated | 102 | 65 | 113 | 56 | 12 | 94 | 113
+Nose - nostrils wide / thin | 38 | 50 | 17 | 113 | 86 | 82 | 113
+Brow Ridge Outer - up / down | 77 | 6 | 50 | 25 | 113 | 99 | 113
+Nostrils - frontal axis twist | 113 | 72 | 72 | 40 | 110 | 25 | 113
+Beard - Flushed / Pale | 46 | 91 | 114 | 66 | 74 | 2 | 114
+Temples - thin / wide | 2 | 93 | 67 | 95 | 114 | 24 | 114
+Mouth - Lips large / small | 105 | 114 | 15 | 77 | 2 | 23 | 114
+Nose - tilt down / up | 114 | 47 | 53 | 60 | 15 | 38 | 114
+Beard - Cheeks Light / Dark | 67 | 76 | 29 | 33 | 115 | 13 | 115
+Mouth - wide / thin | 98 | 68 | 37 | 115 | 103 | 115 | 115
+Nose - nostril tilt down / up | 106 | 107 | 39 | 98 | 1 | 116 | 116
+Nose - Pale / Red | 64 | 32 | 87 | 22 | 116 | 69 | 116
+Brow Ridge - forward axis twist | 10 | 85 | 12 | 18 | 82 | 117 | 117
+Mouth-Nose - transverse shift | 97 | 117 | 86 | 69 | 93 | 85 | 117
+Chin - wide / thin | 54 | 48 | 46 | 75 | 117 | 108 | 117
+Face - coronal bend | 117 | 30 | 78 | 46 | 95 | 114 | 117
+Mouth - Lips thin / thick | 25 | 118 | 89 | 112 | 55 | 77 | 118
+Chin - retracted / jutting | 116 | 46 | 32 | 118 | 94 | 118 | 118
+Nose - flat / pointed | 79 | 88 | 98 | 29 | 118 | 97 | 118
+Chin - forward / backward | 118 | 44 | 116 | 74 | 54 | 87 | 118
+Beard - Circle Light / Dark | 74 | 116 | 65 | 102 | 119 | 105 | 119
+Eyebrows - Low / High | 40 | 56 | 119 | 94 | 80 | 57 | 119
+Lips - Flushed / Pale | 6 | 111 | 9 | 119 | 13 | 56 | 119
+Nares - Small / Large | 119 | 31 | 56 | 13 | 28 | 28 | 119
+Brow Ridge Inner - down / up | 5 | 55 | 111 | 85 | 120 | 53 | 120
+Head - thin / wide | 19 | 3 | 49 | 120 | 96 | 48 | 120
+Mouth - twist and shift | 16 | 120 | 74 | 39 | 59 | 54 | 120
+Mouth-Nose - coronal shear | 57 | 74 | 57 | 78 | 77 | 120 | 120
+Forehead - forward axis twist | 93 | 84 | 120 | 114 | 50 | 78 | 120
+Mouth - up / down | 120 | 99 | 99 | 14 | 43 | 21 | 120
+Eye Whites - Dim / Bright | 80 | 113 | 121 | 79 | 16 | 96 | 121
+Eyes - Dark Brown / Light Blue | 71 | 77 | 118 | 88 | 121 | 62 | 121
+Eyes - tilt inward / outward | 11 | 12 | 8 | 121 | 19 | 61 | 121
+Eye Sockets - Dark / Light | 17 | 121 | 62 | 96 | 18 | 45 | 121
+Face - vertical axis twist | 121 | 119 | 48 | 45 | 17 | 42 | 121
+Forehead - tall / short | 62 | 122 | 59 | 111 | 106 | 119 | 122
+Eyebrows - Underneath Inner Lightness Fix Light / Dark | 56 | 115 | 122 | 116 | 10 | 95 | 122
+Lipstick - Dark Red / Light Blue | 100 | 54 | 117 | 122 | 107 | 122 | 122
+Beard - Moustache Light / Dark | 37 | 1 | 115 | 105 | 122 | 72 | 122
+Face - brow-nose-chin ratio | 122 | 100 | 19 | 71 | 3 | 121 | 122
+Cheekbones - low / high | 53 | 41 | 85 | 117 | 37 | 123 | 123
+Face - tall / short | 26 | 123 | 70 | 61 | 21 | 9 | 123
+Skin Tint - Purple / Yellow | 9 | 18 | 123 | 21 | 57 | 51 | 123
+Cheeks - concave / convex | 47 | 7 | 77 | 123 | 69 | 102 | 123
+Nose - tip transverse shift | 32 | 90 | 26 | 91 | 123 | 90 | 123
+Nose - nostrils small / large | 123 | 64 | 60 | 36 | 62 | 83 | 123
