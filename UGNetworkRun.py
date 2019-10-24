@@ -11,32 +11,26 @@ running = True
 def exitProgram():
     running = False
 
-def createAndTrainNetwork():
-    dataPrefix = input(str(dataPrefixs) + "\nEnter Data Prefix: ")
+def createAndTrainNetwork(dataPrefix):
     UGNetwork.trainNetwork(dataPrefix)
 
-def evaluateNetwork():
-    dataPrefix = input(str(dataPrefixs) + "\nEnter Data Prefix: ")
+def evaluateNetwork(dataPrefix):
     UGNetwork.evaluate(dataPrefix)
 
-def ExtractWeightsToFile():
-    dataPrefix = input(str(dataPrefixs) + "\nEnter Data Prefix: ")
+def ExtractWeightsToFile(dataPrefix):
     NWD.extractWeightsToFile(dataPrefix)
 
-def addLabelsToWeightFile():
-    dataPrefix = input(str(dataPrefixs) + "\nEnter Data Prefix: ")
+def addLabelsToWeightFile(dataPrefix):
     AL2W.addLabelsToWeightFile(dataPrefix)
 
 
-def EvaluateAndSortWeights():
-    dataPrefix = input(str(dataPrefixs) + "\nEnter Data Prefix: ")
+def EvaluateAndSortWeights(dataPrefix):
     weightsort.EvaluateAndSortWeights(dataPrefix)
 
-def ExtractImportantWeights():
+def ExtractImportantWeights(dataPrefix):
     EIW.ExtractImportantWeights(dataPrefixs)
 
-def allTheAbove():
-    dataPrefix = input(str(dataPrefixs) + "\nEnter Data Prefix: ")
+def allTheAbove(dataPrefix):
     UGNetwork.trainNetwork(dataPrefix)
     UGNetwork.evaluate(dataPrefix)
     NWD.extractWeightsToFile(dataPrefix)
@@ -53,7 +47,6 @@ while(running):
     print("5: Evaluate and Sort Weights")
     print("6: Extract Ranked Weights")
     print("7: All The Above")
-    userInput = int(input(">>>"))
     switcher = {
         0: exitProgram,
         1: createAndTrainNetwork,
@@ -64,4 +57,17 @@ while(running):
         6: ExtractImportantWeights,
         7: allTheAbove
     }
-    switcher.get(userInput, "Invalid Input")()
+    userInput = int(input(">>>"))
+    dataPrefix = input(str(dataPrefixs) + "\nEnter Data Prefix: ")
+    if dataPrefix == "All":
+        for dataPrefix1 in dataPrefixs:
+            print(dataPrefix1)
+            switcher.get(userInput, "Invalid Input")(dataPrefix1)
+    else:
+        switcher.get(userInput, "Invalid Input")(dataPrefix)
+	
+
+
+
+
+

@@ -42,14 +42,15 @@ def EvaluateAndSortWeights(dataPrefix):
         ranking = 0;
         data = lines[i].strip().split("  ")
         data = " ".join(data).split(" ")
-        ranking += float(data[0]) * -2
-        ranking += float(data[1]) * -1
+        ranking += float(data[0]) * 2
+        ranking += float(data[1]) * 1
         ranking += float(data[2]) * 0
         ranking += float(data[3]) * 1
         ranking += float(data[4]) * 2
         lines[i] = "{0:.2f}".format(float(ranking)) + " " + lines[i].replace("\n", "") + "\n"
         lines[i] = lines[i].split(" ")
-    quickSort(lines, 0, len(lines)-1)
+    print(lines)
+    quickSort(lines,0, 0, len(lines)-1)
     for i in range(len(lines)):
         lines[i] = " ".join(lines[i])
     lines2 = []
@@ -57,3 +58,4 @@ def EvaluateAndSortWeights(dataPrefix):
         lines2.insert(0, lines[i])
     outFile.writelines(lines2)
     outFile.close()
+	

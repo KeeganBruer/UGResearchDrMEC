@@ -1,123 +1,123 @@
-3.35 -0.7779 -0.6833  0.4304  0.5055  0.3006  Face - heavy / light
-3.17 -0.3883 -0.8204  0.3697  0.8277  0.3748  Beard - Flushed / Pale
-2.70 -0.8681 -1.0464  0.6797  0.6948 -0.3883  Nose - bridge transverse shift
-2.54 -0.7886 -1.0285  0.9372 -0.5318  0.2311  Chin - transverse shift
-2.27 -0.6970  0.5514 -0.4860  0.5142  0.4574  Mouth-Chin distance - short / long
-2.16  0.0540 -0.3028 -0.8813  0.9053  0.5323  Eyelids - Pale / Red
-2.12 -1.0756  0.8533 -0.5404 -0.2340  0.5272  Chin - chin axis twist
-2.02 -0.4573  0.4318 -0.7652  0.7341  0.4006  Mouth - transverse shift
-1.94 -0.5574 -0.4625  0.3293  0.4387 -0.0387  Face - tall / short
-1.89 -0.6654 -0.8407  0.0624  0.6495 -0.4633  Nose Region - frontal axis twist
-1.89 -0.2599 -0.0549 -1.0019  1.1465  0.0824  Chin - small / large
-1.88 -0.2680 -1.1940  0.2662  0.8443 -0.3495  Mouth - tilt up / down
-1.55 -0.7007  0.5606 -0.9096  0.8911 -0.0915  Beard - Cheeks Light / Dark
-1.50 -0.4965 -0.0317  0.0893  0.0840  0.1943  Brow Ridge - high / low
-1.47  0.1461 -0.9053  0.4828  0.7417  0.0570  Skin Tint - Red / Green
-1.33  0.8621 -1.3402  0.2675  0.8421  0.4373  Eyebrows - Upper Dark / Light
-1.31 -0.1416 -0.6098  0.4777  0.1005  0.1578  Eyeshadow - Light / Dark
-1.30 -0.0382 -0.5557 -0.1287  0.2284  0.2205  Beard - Light / Dark
-1.25 -0.3486 -0.9713  0.1256  0.8071 -0.6104  Eyelids - Light / Dark
-1.10 -0.1410 -0.5991  0.4670 -0.3008  0.2587  Chin - tall / short
-1.04 -0.5647  0.6366 -0.8213  0.6742 -0.0650  Mouth - up / down
-1.04 -0.4941 -0.6153  0.6825  0.1094 -0.3369  Forehead - tilt forward / back
-0.89 -0.2067 -0.5067  0.0221  0.3157 -0.1749  Mouth - Lips large / small
-0.80 -0.5726 -0.1177 -0.0858  0.3262 -0.3928  Temples - thin / wide
-0.75  0.2322 -0.7064  0.8557 -0.2769  0.3925  Nostrils - frontal axis twist
-0.73 -0.5429  0.5358 -0.3128  0.2365 -0.0264  Nose - transverse shift
-0.70  0.0764 -0.4408 -0.5749  0.7485 -0.1691  Jawline - concave / convex
-0.69 -0.4059  0.0332  0.2414 -0.5067  0.2079  Nares - Small / Large
-0.67  0.3356 -0.6677 -0.5765  0.7759 -0.0506  Eyes - Dark Brown / Light Brown
-0.65  0.1736 -0.9459 -0.0342  0.6774 -0.3153  Chin - shallow / deep
-0.64 -0.1965 -0.1183 -0.2606  0.1635 -0.0164  Forehead - small / large
-0.61 -0.1813  0.0081  0.0436  0.1839  0.0340  Nose - sellion transverse shift
-0.61 -0.2686  0.0825  0.0851 -0.1146  0.1367  Nose - sellion shallow / deep
-0.54 -0.2649  0.3509 -0.5082  0.1075  0.1260  Eyeliner - Light / Dark
-0.54 -0.2678 -0.2558  0.6588 -0.6542  0.1993  Mouth - underbite / overbite
-0.44 -0.2005  0.0379 -0.3667  0.3186 -0.1212  Face - wide / thin
-0.43  0.2200 -0.2899  0.0583  0.5793  0.0009  Eye Sockets - Bruised / Bright
-0.42  0.1928 -0.3566 -0.4354  0.5707 -0.0608  Nose - tilt down / up
-0.41 -0.1889  0.3091 -0.5855  0.0822  0.1297  Chin - pronounced / recessed
-0.40 -0.2082 -0.4189 -0.0444  0.3952 -0.4155  Face - round / gaunt
-0.39 -0.0793 -0.1860 -0.0244  0.1684 -0.0608  Eyebrows - Thick / Thin
-0.39 -0.1860 -0.4595  0.4282 -0.0227 -0.2085  Face - vertical axis twist
-0.35 -0.2397  0.4313 -0.1983  0.0332  0.1330  Face - up / down
-0.32  0.1073 -0.1007 -0.2925  0.0434  0.1968  Nose - sellion down / up
-0.31 -0.3348  0.3136 -0.1197 -0.2356  0.0958  Eye Sockets - Dark / Light
-0.23  0.1563 -0.6879  0.6186 -0.1071 -0.0204  Nose - region concave / convex
-0.23  0.0668  0.4762 -0.7365  0.6834  0.0769  Nose - sellion shallow / deep
-0.16 -0.0541 -0.3546 -0.1565 -0.1342 -0.0845  Head - thin / wide
-0.14  0.1773 -0.3342  0.1663  0.4525 -0.1442  Eyes - down / up
-0.12 -0.1522 -0.2436  0.8378 -0.5816  0.0765  Mouth - forward axis twist
-0.09  0.0061 -0.2956  0.2929 -0.3777  0.0900  Skin Tint - Purple / Yellow
-0.07  0.3159  0.2371 -0.7715  0.4299  0.2547  Mouth - protruding / retracted
-0.05 -0.6573 -0.0005  0.0606 -0.3276 -0.4670  Brow Ridge Inner - down / up
-0.04 -0.1588 -0.2052  0.2610  0.0441 -0.2646  Mouth - twist and shift
-0.04 -0.2142 -0.2533  0.2534 -0.2732 -0.1853  Beard - Goatee Light / Dark
-0.04  0.1280  0.1946 -0.7604  0.6873 -0.0989  Lips - Flushed / Pale
-0.01 -0.1616 -0.2109  0.1119 -0.0738 -0.2246  Eyebrows - Low / High
--4.95  0.7365  1.0344 -0.7861 -1.0575 -0.6942  Cheek Blush - Light / Red
--3.17  0.6226  0.6553 -0.8744  0.2128 -0.7392  Eyes - apart / together
--2.15 -0.0390 -0.3099  0.8416 -0.7314 -0.9023  Face - coronal shear
--1.92  0.4963 -0.6797  0.3239 -0.1099 -0.7475  Eyes - tilt inward / outward
--1.83  0.2516  0.8481 -0.7819 -0.4423 -0.0204  Eyes - Dark Brown / Light Blue
--1.73  0.2151  0.6277 -0.6924 -0.1843 -0.2432  Nostrils - transverse shift
--1.66  0.3544  0.4723 -0.6789  0.0504 -0.2654  Eyebrows - Outer Light / Dark
--1.57 -0.0541  0.4983 -0.4490 -0.4219 -0.3810  Nose - frontal axis twist
--1.56  0.0574 -0.2020  0.7409 -0.5866 -0.5303  Lipstick - Dark Blue / Light Red
--1.48  0.1861 -0.4118  1.1304 -1.1057 -0.2074  Cheekbones - thin / wide
--1.46  0.2919  0.5304 -0.7129 -0.1782 -0.0837  Nose - bridge short / long
--1.41 -0.4531  1.0476 -0.9100 -0.1169 -0.5761  Nose - Pale / Red
--1.38  0.4897  0.3251 -0.1302 -0.2166  0.0719  Chin - forward axis twist
--1.37 -0.1171  0.2472  0.6199 -0.6060 -0.3766  Mouth - Lips puckered / retracted
--1.33  0.2062 -0.4372  0.6111 -0.3360 -0.5093  Beard - Moustache Light / Dark
--1.28 -0.0384 -0.3997  0.9415 -0.8252 -0.4681  Jaw - wide / thin
--1.28  0.2861  0.4519 -0.2771  0.0439 -0.1504  Eyebrows - Very Thin / Thick
--1.23  0.2285  0.6294 -0.4780 -0.2328  0.0427  Mouth - happy / sad
--1.19  0.4228 -0.6247  0.9241 -0.5746 -0.1997  Mouth - corners transverse shift
--1.15  0.0194  0.1000  0.0055  0.1591 -0.5862  Mouth - Lips thin / thick
--1.13  0.4443  0.4432 -0.2998 -0.6278  0.4137  Forehead - forward axis twist
--1.13 -0.0309  0.5764 -0.2627 -0.6340  0.0104  Nose - short / long
--1.07  0.2610 -0.3481  0.3579 -0.4193 -0.2380  Skin Tint - Orange / Blue
--1.07  0.0903  0.6651 -0.5650 -0.4793  0.1252  Nose - down / up
--0.97  0.2431 -0.1468  0.2984 -0.3256 -0.1531  Nose - nostrils wide / thin
--0.88  0.3778  0.2140 -0.3416  0.2425 -0.0744  Nose - nostrils small / large
--0.85  0.1571  0.0912 -0.7166  0.4012 -0.4239  Cheekbones - shallow / pronounced
--0.85  0.1833  0.1397  0.5285 -0.5639  0.1084  Mouth-Nose - transverse shift
--0.83  0.3819  0.1600 -0.6484  0.5552 -0.2331  Skin Shade - Dark / Light
--0.70 -0.0325  0.2657  0.2047 -0.6298  0.0628  Chin - forward / backward
--0.69 -0.0944 -0.0141  0.0371 -0.3339 -0.2811  Nose - sellion thin / wide
--0.66  0.1763  0.1463  0.1707 -0.1840  0.0128  Mouth - drawn / pursed
--0.64  0.0694 -0.6453  0.6950 -0.4118 -0.3659  Nose - tip transverse shift
--0.63  0.3099  0.3603 -0.6076 -0.3415  0.3434  Jaw - retracted / jutting
--0.63  0.3299 -0.5648  0.6459 -0.2359 -0.1480  Eyebrows - Lower Light / Dark
--0.62  0.2606 -0.5226  0.7055  0.0274 -0.3266  Eyes - small / large
--0.57  0.1183 -0.3893  0.6155 -0.5617 -0.0816  Mouth - Lips deflated / inflated
--0.56 -0.0146  0.5578 -0.5810 -0.0172 -0.0066  Eyebrows - Underneath Inner Lightness Fix Light / Dark
--0.54 -0.0048  0.6918 -0.8067 -0.1526  0.1458  Eye Whites - Dim / Bright
--0.53 -0.2716  0.0575  0.3338 -0.3508 -0.3338  Nose - flat / pointed
--0.53  0.4839 -0.0660  0.1755 -0.2061  0.2882  Eyebrows - Dark / Light
--0.50 -0.1292  0.2729 -0.3329 -0.4178 -0.0361  Brow Ridge Outer - up / down
--0.46  0.6842 -0.6989  0.3076  0.0188  0.0957  Jaw-Neck - slope high / low
--0.45  0.0334 -0.0024  0.2425 -0.2286 -0.0793  Naso Labial Lines - Light / Dark
--0.44  0.1412  0.0481  0.2629  0.1589 -0.1332  Cheeks - concave / convex
--0.35 -0.1529  0.5435 -0.7057  0.2596 -0.1842  Nose - bridge shallow / deep
--0.34 -0.4940  0.1613 -0.2236  0.2173 -0.6909  Cheeks - round / gaunt
--0.34 -0.1044 -0.0583  0.6053 -0.7155  0.0549  Beard - Circle Light / Dark
--0.32  0.0410  0.6910 -0.7787  0.2417  0.1050  Eyes - height disparity
--0.32  0.1032  0.1949 -0.4347  0.3025 -0.1095  Eyebrows - Underneath Lightness Fix Light / Dark
--0.31 -0.0574  0.0956  0.1186  0.0189 -0.1735  Chin - wide / thin
--0.31 -0.7298 -0.6716  1.0241 -0.9591 -0.7406  Cheekbones - protrusion asymmetry
--0.30  0.2185 -0.5518  1.1195 -0.9462  0.2637  Nose - vertical axis twist
--0.29  0.3612 -0.2054 -0.9595  0.5952 -0.1833  Eyes - transverse shift
--0.26  0.2168 -0.1911  0.5561 -0.4573  0.2182  Face - forehead-sellion-nose ratio
--0.25  0.0310 -0.3386  0.4609 -0.3617 -0.0800  Skin - Flushed / Pale
--0.23 -0.3316  0.5853  0.0122 -0.5604  0.1247  Face - coronal bend
--0.23 -0.2962  0.5174 -0.3955  0.1021 -0.2041  Mouth - wide / thin
--0.19 -0.1435 -0.1042  0.5863 -0.6038  0.0113  Nose - nostril tilt down / up
--0.17 -0.1959  0.4828 -0.5473  0.4246 -0.2524  Brow Ridge - forward axis twist
--0.15 -0.4025  0.5202 -0.3464 -0.0018 -0.2144  Chin - retracted / jutting
--0.14 -0.1061 -0.3970  0.8576 -0.2319 -0.2580  Forehead - tall / short
--0.09  0.2619  0.2657 -0.6731  0.4600  0.1189  Mouth-Nose - coronal shear
--0.07 -0.2841  0.6182 -0.5016 -0.2079  0.0929  Face - brow-nose-chin ratio
--0.03 -0.1850  0.5076  0.4319 -0.6826  0.3933  Lipstick - Dark Red / Light Blue
--0.02 -0.0936  0.0160  0.1952  0.1529 -0.1696  Cheekbones - low / high
+2.10  0.8621 -1.3402  0.2675  0.8421  0.4373  Eyebrows - Upper Dark / Light
+1.81  0.3159  0.2371 -0.7715  0.4299  0.2547  Mouth - protruding / retracted
+1.78  0.0540 -0.3028 -0.8813  0.9053  0.5323  Eyelids - Pale / Red
+1.53  0.4443  0.4432 -0.2998 -0.6278  0.4137  Forehead - forward axis twist
+1.49  0.2619  0.2657 -0.6731  0.4600  0.1189  Mouth-Nose - coronal shear
+1.45  0.0668  0.4762 -0.7365  0.6834  0.0769  Nose - sellion shallow / deep
+1.33  0.3099  0.3603 -0.6076 -0.3415  0.3434  Jaw - retracted / jutting
+1.27  0.4839 -0.0660  0.1755 -0.2061  0.2882  Eyebrows - Dark / Light
+1.23  0.4897  0.3251 -0.1302 -0.2166  0.0719  Chin - forward axis twist
+1.22  0.0410  0.6910 -0.7787  0.2417  0.1050  Eyes - height disparity
+1.06  0.3778  0.2140 -0.3416  0.2425 -0.0744  Nose - nostrils small / large
+1.05 -0.4573  0.4318 -0.7652  0.7341  0.4006  Mouth - transverse shift
+1.01  0.3819  0.1600 -0.6484  0.5552 -0.2331  Skin Shade - Dark / Light
+0.94  0.2285  0.6294 -0.4780 -0.2328  0.0427  Mouth - happy / sad
+0.94  0.1280  0.1946 -0.7604  0.6873 -0.0989  Lips - Flushed / Pale
+0.88  0.6842 -0.6989  0.3076  0.0188  0.0957  Jaw-Neck - slope high / low
+0.87  0.2516  0.8481 -0.7819 -0.4423 -0.0204  Eyes - Dark Brown / Light Blue
+0.82 -0.0048  0.6918 -0.8067 -0.1526  0.1458  Eye Whites - Dim / Bright
+0.77  0.2919  0.5304 -0.7129 -0.1782 -0.0837  Nose - bridge short / long
+0.77  0.2861  0.4519 -0.2771  0.0439 -0.1504  Eyebrows - Very Thin / Thick
+0.75  0.3612 -0.2054 -0.9595  0.5952 -0.1833  Eyes - transverse shift
+0.74 -0.2599 -0.0549 -1.0019  1.1465  0.0824  Chin - small / large
+0.73  0.2200 -0.2899  0.0583  0.5793  0.0009  Eye Sockets - Bruised / Bright
+0.70  0.3544  0.4723 -0.6789  0.0504 -0.2654  Eyebrows - Outer Light / Dark
+0.68  0.3356 -0.6677 -0.5765  0.7759 -0.0506  Eyes - Dark Brown / Light Brown
+0.63  0.6226  0.6553 -0.8744  0.2128 -0.7392  Eyes - apart / together
+0.62  0.0903  0.6651 -0.5650 -0.4793  0.1252  Nose - down / up
+0.59 -0.6970  0.5514 -0.4860  0.5142  0.4574  Mouth-Chin distance - short / long
+0.55  0.1073 -0.1007 -0.2925  0.0434  0.1968  Nose - sellion down / up
+0.50 -0.0146  0.5578 -0.5810 -0.0172 -0.0066  Eyebrows - Underneath Inner Lightness Fix Light / Dark
+0.48  0.1928 -0.3566 -0.4354  0.5707 -0.0608  Nose - tilt down / up
+0.48  0.1032  0.1949 -0.4347  0.3025 -0.1095  Eyebrows - Underneath Lightness Fix Light / Dark
+0.39  0.2151  0.6277 -0.6924 -0.1843 -0.2432  Nostrils - transverse shift
+0.34  0.1763  0.1463  0.1707 -0.1840  0.0128  Mouth - drawn / pursed
+0.27  0.2322 -0.7064  0.8557 -0.2769  0.3925  Nostrils - frontal axis twist
+0.27 -0.1889  0.3091 -0.5855  0.0822  0.1297  Chin - pronounced / recessed
+0.25 -0.2397  0.4313 -0.1983  0.0332  0.1330  Face - up / down
+0.24  0.1461 -0.9053  0.4828  0.7417  0.0570  Skin Tint - Red / Green
+0.24 -0.1850  0.5076  0.4319 -0.6826  0.3933  Lipstick - Dark Red / Light Blue
+0.22  0.1412  0.0481  0.2629  0.1589 -0.1332  Cheeks - concave / convex
+0.22  0.2168 -0.1911  0.5561 -0.4573  0.2182  Face - forehead-sellion-nose ratio
+0.18  0.1773 -0.3342  0.1663  0.4525 -0.1442  Eyes - down / up
+0.18 -0.2649  0.3509 -0.5082  0.1075  0.1260  Eyeliner - Light / Dark
+0.16  0.1833  0.1397  0.5285 -0.5639  0.1084  Mouth-Nose - transverse shift
+0.13 -0.1529  0.5435 -0.7057  0.2596 -0.1842  Nose - bridge shallow / deep
+0.12  0.0764 -0.4408 -0.5749  0.7485 -0.1691  Jawline - concave / convex
+0.06  0.7365  1.0344 -0.7861 -1.0575 -0.6942  Cheek Blush - Light / Red
+0.05 -0.5647  0.6366 -0.8213  0.6742 -0.0650  Mouth - up / down
+0.04 -0.0382 -0.5557 -0.1287  0.2284  0.2205  Beard - Light / Dark
+0.03 -0.2841  0.6182 -0.5016 -0.2079  0.0929  Face - brow-nose-chin ratio
+0.01 -0.1959  0.4828 -0.5473  0.4246 -0.2524  Brow Ridge - forward axis twist
+-4.57 -0.7298 -0.6716  1.0241 -0.9591 -0.7406  Cheekbones - protrusion asymmetry
+-2.92 -0.0390 -0.3099  0.8416 -0.7314 -0.9023  Face - coronal shear
+-2.86 -0.8681 -1.0464  0.6797  0.6948 -0.3883  Nose - bridge transverse shift
+-2.68 -0.7886 -1.0285  0.9372 -0.5318  0.2311  Chin - transverse shift
+-2.58 -0.6573 -0.0005  0.0606 -0.3276 -0.4670  Brow Ridge Inner - down / up
+-2.45 -0.6654 -0.8407  0.0624  0.6495 -0.4633  Nose Region - frontal axis twist
+-2.24 -0.0384 -0.3997  0.9415 -0.8252 -0.4681  Jaw - wide / thin
+-2.17 -0.4941 -0.6153  0.6825  0.1094 -0.3369  Forehead - tilt forward / back
+-2.08 -0.3486 -0.9713  0.1256  0.8071 -0.6104  Eyelids - Light / Dark
+-1.99 -0.4940  0.1613 -0.2236  0.2173 -0.6909  Cheeks - round / gaunt
+-1.73  0.0574 -0.2020  0.7409 -0.5866 -0.5303  Lipstick - Dark Blue / Light Red
+-1.72 -0.5726 -0.1177 -0.0858  0.3262 -0.3928  Temples - thin / wide
+-1.65  0.0694 -0.6453  0.6950 -0.4118 -0.3659  Nose - tip transverse shift
+-1.58 -0.2680 -1.1940  0.2662  0.8443 -0.3495  Mouth - tilt up / down
+-1.56  0.1861 -0.4118  1.1304 -1.1057 -0.2074  Cheekbones - thin / wide
+-1.50 -0.2716  0.0575  0.3338 -0.3508 -0.3338  Nose - flat / pointed
+-1.38  0.2062 -0.4372  0.6111 -0.3360 -0.5093  Beard - Moustache Light / Dark
+-1.36 -0.1061 -0.3970  0.8576 -0.2319 -0.2580  Forehead - tall / short
+-1.35 -0.1171  0.2472  0.6199 -0.6060 -0.3766  Mouth - Lips puckered / retracted
+-1.33 -0.2142 -0.2533  0.2534 -0.2732 -0.1853  Beard - Goatee Light / Dark
+-1.29  0.4963 -0.6797  0.3239 -0.1099 -0.7475  Eyes - tilt inward / outward
+-1.27 -0.1860 -0.4595  0.4282 -0.0227 -0.2085  Face - vertical axis twist
+-1.27 -0.2082 -0.4189 -0.0444  0.3952 -0.4155  Face - round / gaunt
+-1.22 -0.5574 -0.4625  0.3293  0.4387 -0.0387  Face - tall / short
+-1.13 -0.4531  1.0476 -0.9100 -0.1169 -0.5761  Nose - Pale / Red
+-1.13 -0.7779 -0.6833  0.4304  0.5055  0.3006  Face - heavy / light
+-1.10 -0.0944 -0.0141  0.0371 -0.3339 -0.2811  Nose - sellion thin / wide
+-1.06 -0.1616 -0.2109  0.1119 -0.0738 -0.2246  Eyebrows - Low / High
+-1.05 -0.2678 -0.2558  0.6588 -0.6542  0.1993  Mouth - underbite / overbite
+-1.01 -0.1588 -0.2052  0.2610  0.0441 -0.2646  Mouth - twist and shift
+-0.98 -0.1522 -0.2436  0.8378 -0.5816  0.0765  Mouth - forward axis twist
+-0.97 -0.1435 -0.1042  0.5863 -0.6038  0.0113  Nose - nostril tilt down / up
+-0.95 -0.2067 -0.5067  0.0221  0.3157 -0.1749  Mouth - Lips large / small
+-0.88  0.1183 -0.3893  0.6155 -0.5617 -0.0816  Mouth - Lips deflated / inflated
+-0.87 -0.4059  0.0332  0.2414 -0.5067  0.2079  Nares - Small / Large
+-0.87 -0.1044 -0.0583  0.6053 -0.7155  0.0549  Beard - Circle Light / Dark
+-0.87  0.0194  0.1000  0.0055  0.1591 -0.5862  Mouth - Lips thin / thick
+-0.80  0.0310 -0.3386  0.4609 -0.3617 -0.0800  Skin - Flushed / Pale
+-0.79 -0.0541  0.4983 -0.4490 -0.4219 -0.3810  Nose - frontal axis twist
+-0.77 -0.0541 -0.3546 -0.1565 -0.1342 -0.0845  Head - thin / wide
+-0.75  0.4228 -0.6247  0.9241 -0.5746 -0.1997  Mouth - corners transverse shift
+-0.72  0.2610 -0.3481  0.3579 -0.4193 -0.2380  Skin Tint - Orange / Blue
+-0.72 -0.4025  0.5202 -0.3464 -0.0018 -0.2144  Chin - retracted / jutting
+-0.66 -0.1410 -0.5991  0.4670 -0.3008  0.2587  Chin - tall / short
+-0.63  0.2606 -0.5226  0.7055  0.0274 -0.3266  Eyes - small / large
+-0.55 -0.4965 -0.0317  0.0893  0.0840  0.1943  Brow Ridge - high / low
+-0.55  0.1736 -0.9459 -0.0342  0.6774 -0.3153  Chin - shallow / deep
+-0.53  0.2185 -0.5518  1.1195 -0.9462  0.2637  Nose - vertical axis twist
+-0.52  0.1563 -0.6879  0.6186 -0.1071 -0.0204  Nose - region concave / convex
+-0.48  0.0061 -0.2956  0.2929 -0.3777  0.0900  Skin Tint - Purple / Yellow
+-0.48 -0.1292  0.2729 -0.3329 -0.4178 -0.0361  Brow Ridge Outer - up / down
+-0.48 -0.1416 -0.6098  0.4777  0.1005  0.1578  Eyeshadow - Light / Dark
+-0.48 -1.0756  0.8533 -0.5404 -0.2340  0.5272  Chin - chin axis twist
+-0.44  0.3299 -0.5648  0.6459 -0.2359 -0.1480  Eyebrows - Lower Light / Dark
+-0.40 -0.3348  0.3136 -0.1197 -0.2356  0.0958  Eye Sockets - Dark / Light
+-0.39 -0.3316  0.5853  0.0122 -0.5604  0.1247  Face - coronal bend
+-0.38 -0.1965 -0.1183 -0.2606  0.1635 -0.0164  Forehead - small / large
+-0.38 -0.2962  0.5174 -0.3955  0.1021 -0.2041  Mouth - wide / thin
+-0.37 -0.5429  0.5358 -0.3128  0.2365 -0.0264  Nose - transverse shift
+-0.36 -0.0936  0.0160  0.1952  0.1529 -0.1696  Cheekbones - low / high
+-0.35 -0.0574  0.0956  0.1186  0.0189 -0.1735  Chin - wide / thin
+-0.32  0.0334 -0.0024  0.2425 -0.2286 -0.0793  Naso Labial Lines - Light / Dark
+-0.30 -0.0793 -0.1860 -0.0244  0.1684 -0.0608  Eyebrows - Thick / Thin
+-0.30 -0.2686  0.0825  0.0851 -0.1146  0.1367  Nose - sellion shallow / deep
+-0.30 -0.0325  0.2657  0.2047 -0.6298  0.0628  Chin - forward / backward
+-0.29  0.2431 -0.1468  0.2984 -0.3256 -0.1531  Nose - nostrils wide / thin
+-0.29 -0.2005  0.0379 -0.3667  0.3186 -0.1212  Face - wide / thin
+-0.13 -0.7007  0.5606 -0.9096  0.8911 -0.0915  Beard - Cheeks Light / Dark
+-0.10 -0.0309  0.5764 -0.2627 -0.6340  0.0104  Nose - short / long
+-0.10 -0.1813  0.0081  0.0436  0.1839  0.0340  Nose - sellion transverse shift
+-0.04  0.1571  0.0912 -0.7166  0.4012 -0.4239  Cheekbones - shallow / pronounced
+-0.02 -0.3883 -0.8204  0.3697  0.8277  0.3748  Beard - Flushed / Pale
